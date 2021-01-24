@@ -1,12 +1,12 @@
 # Project title and description
 
-Include a project description that explains **what** your project is and **why** it exists. Aim for no more than 3-5 concise sentences. For example, you might say:
+Broadly, the **Data Literacy Project** was created to address the growing gaps between new technology development and decisions impacting our communities with the underlying systems and data that drive those initiatives. Near team goals of this project will be to elevate the knowledge of the LA community and members o the Neighborhood Councils around how data is collected and used to drive new technologies and policy decisions through ongoing workshops. 
 
-{Project Name} is a project of Hack for LA. Hack for LA is a brigade of a Code for America that exists to {your mission}. {Project Name} helps {target users} accomplish {goal of project}. The {app/site/thing you're building}'s main features include {very brief feature descriptions}.
 
 ### Project context
 
 Civic projects often exist within a larger context that may include multiple stakeholders, historic relationships, associated research, or other details that are relevant but not *required* for direct contributions. Gathering these details in one place is useful, but the ReadMe isn't that place. Use this section to [link to a Google Doc](#) or other documentation repository where contributors can dig in if they so choose. This is also a good place to link to your Code of Conduct.
+
 
 ### Technology used
 
@@ -14,18 +14,17 @@ Civic projects often exist within a larger context that may include multiple sta
 - Each platform should include an [active link](#) to the official documentation.
 
 
-
 # How to contribute
 
 Explain the different ways people can contribute. For example:
 
-- Join the team {on Slack/at our weekly hack night/etc}.
+- Join the team on Slack [#data-literacy](https://app.slack.com/client/T04502KQX/C01L2ANCG6M?cdn_fallback=2)
+- At our weekly hack night TBD.
 - To help with user research, {do ABC}.
 - To provide design support, {do XYZ}.
 - To contribute to the code, follow the instructions below.
 
 Remember to provide direct links to each channel.
-
 
 
 ## Installation instructions
@@ -60,10 +59,9 @@ To create a new issue, please use the blank issue template (available when you c
 - Provide instructions.
 
 
-
 # Contact info
 
-Include at least one way (or more, if possible) to reach your team with questions or comments.
+To reach our team with questions or comments, you can slack us on the #data-literacy channel on Slack or email dataliteracy@hackforla.org.
 
 
 ### Licensing
