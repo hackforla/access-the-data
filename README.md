@@ -1,6 +1,6 @@
 # Data Literacy Project
 
-Broadly, the **Data Literacy Project** was created to address the growing gaps between new technology development and decisions impacting our communities with the underlying systems and data that drive those initiatives. Near team goals of this project will be to elevate the knowledge of the LA community and members o the Neighborhood Councils around how data is collected and used to drive new technologies and policy decisions through ongoing workshops. 
+Broadly, the **Data Literacy Project** was created to address the growing gaps between new technology development and decisions impacting our communities with the underlying systems and data that drive those initiatives. In this spirit, Hack for LA volunteers, in partnership with Neighborhood Empowerment and Neighborhood Councils, will be developing a series of data literacy talks/workshops that will be open to the public.
 
 # Project context
 
