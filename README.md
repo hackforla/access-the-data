@@ -2,21 +2,16 @@
 
 Broadly, the **Data Literacy Project** was created to address the growing gaps between new technology development and decisions impacting our communities with the underlying systems and data that drive those initiatives. Near team goals of this project will be to elevate the knowledge of the LA community and members o the Neighborhood Councils around how data is collected and used to drive new technologies and policy decisions through ongoing workshops. 
 
+# Project context
 
-### Project context
+For more information on the project development, refer to: [Data Literacy Project One Sheet](https://docs.google.com/document/d/1_CxBQ_ku4sanPIWKtPyENJ4E9hQKETQs8IWAOCzgqqk/edit)
 
-Civic projects often exist within a larger context that may include multiple stakeholders, historic relationships, associated research, or other details that are relevant but not *required* for direct contributions. Gathering these details in one place is useful, but the ReadMe isn't that place. Use this section to [link to a Google Doc](#) or other documentation repository where contributors can dig in if they so choose. This is also a good place to link to your Code of Conduct.
+# Technology used
 
-
-### Technology used
-
-- Each platform or framework should get its own bullet.
-- Each platform should include an [active link](#) to the official documentation.
-
+- GitHub: [Project Management Board](https://github.com/hackforla/data-literacy/projects/1)
+- Slack: [#data-literacy](https://app.slack.com/client/T04502KQX/C01L2ANCG6M?cdn_fallback=2)
 
 # How to contribute
-
-Explain the different ways people can contribute. For example:
 
 - Join the team on Slack [#data-literacy](https://app.slack.com/client/T04502KQX/C01L2ANCG6M?cdn_fallback=2)
 - At our weekly hack night TBD.
@@ -24,16 +19,12 @@ Explain the different ways people can contribute. For example:
 - To provide design support, {do XYZ}.
 - To contribute to the code, follow the instructions below.
 
-Remember to provide direct links to each channel.
-
-
-## Installation instructions
+# Installation instructions
 
 1. Step-by-step instructions help new contributors get a development environment up and running quickly.
 2. You'll want to find the balance between being specific enough for novices to follow, without being so specific that you reinvent the wheel by providing overly-basic instructions that can be found elsewhere.
 3. Feel free to adapt this section and its sub-sections to your own processes.
 4. Alternatively, you can move everything from *Installation instructions* through *Testing* to a separate **Contributing.md** file to keep your **ReadMe.md** more succinct.
-
 
 ### Working with issues
 
