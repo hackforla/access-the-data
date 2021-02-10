@@ -1,6 +1,6 @@
 # Access the Data
 
-Broadly, the **Access the Data** project was created to address the growing gaps between new technology development and decisions impacting our communities with the underlying systems and data that drive those initiatives. In this spirit, Hack for LA volunteers, in partnership with Neighborhood Empowerment and Neighborhood Councils, will be developing a series of data literacy talks/workshops that will be open to the public.
+The **Access the Data** project was created to address the growing gaps between new technology development and decisions impacting our communities with the underlying systems and data that drive those initiatives. In this spirit, Hack for LA volunteers, in partnership with Neighborhood Empowerment and Neighborhood Councils, will be developing a series of data literacy talks/workshops that will be open to the public.
 
 # Project context
 
