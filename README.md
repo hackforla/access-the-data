@@ -4,7 +4,7 @@ The **Access the Data** project was created to address the growing gaps between 
 
 # Project context
 
-For more information on the project development, refer to: [Access the Data](https://docs.google.com/document/d/1_CxBQ_ku4sanPIWKtPyENJ4E9hQKETQs8IWAOCzgqqk/edit)  one sheet for a larger overview and our current roadmap
+For more information on the project development, refer to: [Access the Data](https://github.com/hackforla/product-management/blob/master/project-one-sheets/Access-the-Data-One-Sheet.pdf)  one sheet for a larger overview and our current roadmap
 
 # Technology used
 
