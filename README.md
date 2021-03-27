@@ -1,6 +1,8 @@
 # Access the Data
 
-The **Access the Data** project was created to address the growing gaps between new technology development and decisions impacting our communities with the underlying systems and data that drive those initiatives. In this spirit, Hack for LA volunteers, in partnership with The Department of Neighborhood Empowerment Neighborhood Councils and a variety of other LA City partners, will be developing a series of data literacy talks/workshops that will be open to the public.
+**Access the Data** is an initiative aimed at identifying and addressing the areas where data literacy education within our communities is needed most. With government policies increasingly relying on data and data analysis, it becomes imperative to increase data literacy in order for citizens to be effective advocates for their communities. 
+
+In this spirit, Hack for LA’s Access the Data team, in partnership with the Los Angeles Department of Neighborhood Empowerment, Neighborhood Councils, and the Los Angeles Mayor’s office, will be developing modules to address those areas. The project will produce a website to make accessing modules and other relevant self teaching content easy.
 
 # Project context
 
@@ -20,5 +22,7 @@ For more information on the project development, refer to: [Access the Data](htt
 # Contact info
 
 To reach our team with questions or comments, you can slack us on the #access-the-data channel on Slack or email accessthedata@hackforla.org.
+
+Website [here](http://accessthedata.org/)
 
 *this readme file sourced from [Jessica Sand](http://jessicasand.com/other-stuff/just-enough-docs/)*
