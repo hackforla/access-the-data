@@ -23,6 +23,4 @@ For more information on the project development, refer to: [Access the Data](htt
 
 To reach our team with questions or comments, you can slack us on the #access-the-data channel on Slack or email accessthedata@hackforla.org.
 
-Website [here](http://accessthedata.org/)
-
 *this readme file sourced from [Jessica Sand](http://jessicasand.com/other-stuff/just-enough-docs/)*
