@@ -1,4 +1,4 @@
-# Access the Data
+![Access the Data logo](https://www.hackforla.org/assets/images/projects/access-the-data.png)
 
 **Access the Data** is an initiative aimed at identifying and addressing the areas where data literacy education within our communities is needed most. With government policies increasingly relying on data and data analysis, it becomes imperative to increase data literacy in order for citizens to be effective advocates for their communities. 
 
