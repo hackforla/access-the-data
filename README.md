@@ -45,7 +45,7 @@ For more information on the project development, refer to: [Access the Data](htt
 | PM Meeting   | Tuesdays 4PM PST | PM |
 | UX/UI Working Meeting   | Tuesdays 5PM PST| UX/UI |
 | Team Meeting   | Wednesdays 5PM PST      | PM, UX/UI, Data Science, Developer |
-| Website Working Meeting   | Thursdays 4PM PST      | PM, UX/UI |
+| Website Working Meeting   | Thursdays 4PM PST      | PM, UX/UI, Developer |
 
 # Contact info
 
