@@ -25,14 +25,14 @@ For more information on the project development, refer to: [Access the Data](htt
 1. If you like what you see, join the Hack for LA Slack workspace: [self invite](https://hackforla.org/slack)
 2. Join the team's Slack channel [#access-the-data](https://hackforla.slack.com/archives/C01L2ANCG6M)
 3. Post on Slack channel:
-    a. introducing yourself to the team
-    b. identifying that you read this part of the Wiki
-    c. how you'd like to contribute
-    d. what relevant skills you have to offer
-    e. request a short onboarding meeting with the PMs
+    - introducing yourself to the team
+    - identifying that you read this part of the Wiki
+    - how you'd like to contribute
+    - what relevant skills you have to offer
+    - request a short onboarding meeting with the PMs
 5. During onboarding you will complete the following required actions
-    a. get access to project's Google Drive
-    b. get access to project's GitHub repo. (Yes, even non-devs will use GitHub for project-management/kanban.)
+    - get access to project's Google Drive
+    - get access to project's GitHub repo (yes, even non-devs will use GitHub for project-management/kanban)
 8. Once you have access to the Access the Data Google Drive, add yourself to the Team Roster
 
 ## 3. Come to the Meetings
