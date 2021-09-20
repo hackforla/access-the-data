@@ -6,6 +6,8 @@ In this spirit, Hack for LA’s Access the Data team, in partnership with the Lo
 
 # Project context
 
+Access the Data is a two product project: workshops and website. 
+
 For more information on the project development, refer to: [Access the Data](https://github.com/hackforla/product-management/blob/master/project-one-sheets/Access-the-Data-One-Sheet.pdf)  one sheet for a larger overview and our current roadmap
 
 # Technology used
@@ -14,10 +16,36 @@ For more information on the project development, refer to: [Access the Data](htt
 - Slack channel: [#access-the-data](https://hackforla.slack.com/archives/C01L2ANCG6M)
 
 # How to contribute
-- Join the Hack for LA Slack workspace: [self invite](https://hackforla.org/slack)
-- Join the team's Slack channel
-- Come to one of our team meetings: Tuesday 2pm PST (details will be posted in the slack channel)
-- Check our project board (where we manage all the work) and look for a task that matches your skill set in the prioritized backlog.
+## 1. Get Familiar with What We Do
+1. Read the [Access the Data One-Sheet](https://docs.google.com/document/u/1/d/1bWWhI0Zuas22sdEEDC6sSuRYZ3gXiBZ8LuyNUmD_s7o/edit) to get a sense of the project purpose and direction
+2. Read the Read [Access the Data FAQ ](https://docs.google.com/document/u/1/d/1eCXRhByy4qMJGd3PvWFbYFPJpEP1YcvR8rg7GRPzfCs/edit) to see common asked questions
+3. Explore our [Project Management Board](https://github.com/hackforla/access-the-data/projects/1) (where we manage all the work) and see what the team is working on
+
+## 2. Join the Community
+1. If you like what you see, join the Hack for LA Slack workspace: [self invite](https://hackforla.org/slack)
+2. Join the team's Slack channel [#access-the-data](https://hackforla.slack.com/archives/C01L2ANCG6M)
+3. Post on Slack channel:
+    a. introducing yourself to the team
+    b. identifying that you read this part of the Wiki
+    c. how you'd like to contribute
+    d. what relevant skills you have to offer
+    e. request a short onboarding meeting with the PMs
+5. During onboarding you will complete the following required actions
+    a. get access to project's Google Drive
+    b. get access to project's GitHub repo. (Yes, even non-devs will use GitHub for project-management/kanban.)
+8. Once you have access to the Access the Data Google Drive, add yourself to the Team Roster
+
+## 3. Come to the Meetings
+1. Come to our team meetings: Wednesdays 4pm PST (link to Zoom meeting is posted in the slack channel description)
+2. Depending on your role, go to the associated meetings:
+
+| Meeting     | Time | Related Role(s) |
+| ----------- | ----------- | ----------- |
+| Workshop Working Meeting   | Mondays 5PM PST  |PM, Data Science|
+| PM Meeting   | Tuesdays 4PM PST | PM |
+| UX/UI Working Meeting   | Tuesdays 5PM PST| UX/UI |
+| Team Meeting   | Wednesdays 5PM PST      | PM, UX/UI, Data Science, Developer |
+| Website Working Meeting   | Thursdays 4PM PST      | PM, UX/UI |
 
 # Contact info
 
