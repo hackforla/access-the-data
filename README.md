@@ -39,7 +39,7 @@ For more information on the project development, refer to: [Access the Data](htt
 1. Come to our team meetings: Wednesdays 4pm PST 
 2. Depending on your role, go to the associated meetings:
 
-| Meeting     | Time | Related Role(s) | Meeting Link
+| Meeting     | Time | Related Role(s) | Meeting Link |
 | ----------- | ----------- | ----------- |----------- |
 | Workshop Working Meeting   | Mondays 5PM PST  |PM, Data Science| ask Sarah Nabelsi|
 | PM Meeting   | Tuesdays 4PM PST | PM | ask Lucy Chang or Alyssa Bryant|
