@@ -43,9 +43,9 @@ For more information on the project development, refer to: [Access the Data](htt
 | ----------- | ----------- | ----------- |----------- |
 | Workshop Working Meeting   | Mondays 5PM PST  |PM, Data Science| ask Sarah Nabelsi|
 | PM Meeting   | Tuesdays 4PM PST | PM | ask Lucy Chang or Alyssa Bryant|
-| UX/UI Working Meeting   | Tuesdays 5PM PST| UX/UI | ask Melissa Murphy|
-| Team Meeting   | Wednesdays 5PM PST      | PM, UX/UI, Data Science, Developer | https://us02web.zoom.us/j/81648388067 |
-| Website Working Meeting   | Thursdays 4PM PST      | PM, UX/UI, Developer | https://us02web.zoom.us/j/87180592440 |
+| UX/UI Working Meeting   | Tuesdays 5PM PST| UX/UI | ask Melissa Murphy |
+| Team Meeting   | Wednesdays 5PM PST      | PM, UX/UI, Data Science, Developer | [Zoom](https://us02web.zoom.us/j/81648388067) |
+| Website Working Meeting   | Thursdays 4PM PST      | PM, UX/UI, Developer | [Zoom](https://us02web.zoom.us/j/87180592440) |
 
 # Contact info
 
