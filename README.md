@@ -36,7 +36,7 @@ For more information on the project development, refer to: [Access the Data](htt
 8. Once you have access to the Access the Data Google Drive, add yourself to the Team Roster
 
 ## 3. Come to the Meetings
-1. Come to our team meetings: Wednesdays 4pm PST (link to Zoom meeting is posted in the slack channel description)
+1. Come to our team meetings: Wednesdays 4pm PST 
 2. Depending on your role, go to the associated meetings:
 
 | Meeting     | Time | Related Role(s) | Meeting Link
