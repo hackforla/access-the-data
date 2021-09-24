@@ -17,8 +17,8 @@ For more information on the project development, refer to: [Access the Data](htt
 
 # How to contribute
 ## 1. Get Familiar with What We Do
-1. Read the [Access the Data One-Sheet](https://docs.google.com/document/u/1/d/1bWWhI0Zuas22sdEEDC6sSuRYZ3gXiBZ8LuyNUmD_s7o/edit) to get a sense of the project purpose and direction
-2. Read the Read [Access the Data FAQ ](https://docs.google.com/document/u/1/d/1eCXRhByy4qMJGd3PvWFbYFPJpEP1YcvR8rg7GRPzfCs/edit) to see common asked questions
+1. Read the [Access the Data One-Sheet](https://docs.google.com/document/d/1bWWhI0Zuas22sdEEDC6sSuRYZ3gXiBZ8LuyNUmD_s7o/edit?usp=sharing) to get a sense of the project purpose and direction
+2. Read the Read [Access the Data FAQ ](https://docs.google.com/document/d/1eCXRhByy4qMJGd3PvWFbYFPJpEP1YcvR8rg7GRPzfCs/edit?usp=sharing) to see common asked questions
 3. Explore our [Project Management Board](https://github.com/hackforla/access-the-data/projects/1) (where we manage all the work) and see what the team is working on
 
 ## 2. Join the Community
