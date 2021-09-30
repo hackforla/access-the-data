@@ -20,6 +20,7 @@ For more information on the project development, refer to: [Access the Data](htt
 1. Read the [Access the Data One-Sheet](https://docs.google.com/document/d/1bWWhI0Zuas22sdEEDC6sSuRYZ3gXiBZ8LuyNUmD_s7o/edit?usp=sharing) to get a sense of the project purpose and direction
 2. Read the Read [Access the Data FAQ ](https://docs.google.com/document/d/1eCXRhByy4qMJGd3PvWFbYFPJpEP1YcvR8rg7GRPzfCs/edit?usp=sharing) to see common asked questions
 3. Explore our [Project Management Board](https://github.com/hackforla/access-the-data/projects/1) (where we manage all the work) and see what the team is working on
+4. Check out [Access the Data's Figma](https://www.figma.com/team_invite/redeem/kAfdau1Gi5DRy2t6B8DTrp)
 
 ## 2. Join the Community
 1. If you like what you see, join the Hack for LA Slack workspace: [self invite](https://hackforla.org/slack)
@@ -33,6 +34,7 @@ For more information on the project development, refer to: [Access the Data](htt
 5. During onboarding you will complete the following required actions
     - get access to project's Google Drive
     - get access to project's GitHub repo (yes, even non-devs will use GitHub for project-management/kanban)
+    - get edit access to Access the Data's Figma 
 8. Once you have access to the Access the Data Google Drive, add yourself to the Team Roster
 
 ## 3. Come to the Meetings
