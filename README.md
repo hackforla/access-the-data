@@ -43,7 +43,7 @@ For more information on the project development, refer to: [Access the Data](htt
 
 | Meeting     | Time | Related Role(s) | Meeting Link |
 | ----------- | ----------- | ----------- |----------- |
-| PM and Hack4LA Organization Meeting   | Tuesdays 4PM PST | PMs, Leads | ask Lucy Chang|
+| PM and Hack4LA Organization Meeting   | Tuesdays 2PM PST | PMs, Leads | ask Lucy Chang|
 | Team Meeting   | Wednesdays 5PM PST      | PM, UX/UI, Data Science, Developer | [Zoom](https://us02web.zoom.us/j/81648388067) |
 | Website Working Meeting   | Thursdays 4PM PST      | PM, UX/UI, Developer | [Zoom](https://us02web.zoom.us/j/87180592440) |
 | Workshop Working Meeting   | Thursdays 5PM PST  |PM, Data Science| [Zoom](https://us02web.zoom.us/j/86936394809?pwd=dStvei9pcW5HV1dTSkpoYzk3eGNQUT09)|
