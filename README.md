@@ -45,8 +45,9 @@ For more information on the project development, refer to: [Access the Data](htt
 | ----------- | ----------- | ----------- |----------- |
 | Workshop Working Meeting   | Mondays 5PM PST  |PM, Data Science| [Zoom](https://us02web.zoom.us/j/82450421459?pwd=aWJVVE1ZK3JUd2tFQTNJUTdpUEFJdz09)|
 | PM and Hack4LA Organization Meeting   | Tuesdays 2PM PST | PMs, Leads | ask Lucy Chang|
+| UX Research Working Meeting  | Tuesdays 5PM PST | PMs, Leads, UX/UI | [Zoom]( https://us02web.zoom.us/j/85209255870)|
 | Team Meeting   | Wednesdays 5PM PST      | PM, UX/UI, Data Science, Developer | [Zoom](https://us02web.zoom.us/j/81648388067) |
-| Website Working Meeting   | Thursdays 4PM PST      | PM, UX/UI, Developer | [Zoom](https://us02web.zoom.us/j/87180592440) |
+| UX Design Working Meeting   | Thursdays 4PM PST      | PM, UX/UI, Developer | [Zoom](https://us02web.zoom.us/j/87180592440) |
 
 # Contact info
 
