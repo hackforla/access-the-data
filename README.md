@@ -6,21 +6,24 @@ In this spirit, Hack for LA’s Access the Data team, in partnership with the Lo
 
 # Project context
 
-Access the Data is a two product project: workshops and website. 
+Access the Data is working on three products:
+1. A three-part educational module on using local open-source data
+2. A database of open data sources and resources
+3. A website to host the above educational resources
 
-For more information on the project development, refer to: [Access the Data](https://github.com/hackforla/product-management/blob/master/project-one-sheets/Access-the-Data-One-Sheet.pdf)  one sheet for a larger overview and our current roadmap
 
 # Technology used
 
 - GitHub: [Project Management Board](https://github.com/hackforla/access-the-data/projects/1)
 - Slack channel: [#access-the-data](https://hackforla.slack.com/archives/C01L2ANCG6M)
+- Figma: [Access the Data's Figma](https://www.figma.com/team_invite/redeem/kAfdau1Gi5DRy2t6B8DTrp)
+- Google Suite: (only onboarded participants will have viewing access)
 
 # How to contribute
 ## 1. Get Familiar with What We Do
-1. Read the [Access the Data One-Sheet](https://docs.google.com/document/d/1bWWhI0Zuas22sdEEDC6sSuRYZ3gXiBZ8LuyNUmD_s7o/edit?usp=sharing) to get a sense of the project purpose and direction
-2. Read the Read [Access the Data FAQ ](https://docs.google.com/document/d/1eCXRhByy4qMJGd3PvWFbYFPJpEP1YcvR8rg7GRPzfCs/edit?usp=sharing) to see common asked questions
-3. Explore our [Project Management Board](https://github.com/hackforla/access-the-data/projects/1) (where we manage all the work) and see what the team is working on
-4. Check out [Access the Data's Figma](https://www.figma.com/team_invite/redeem/kAfdau1Gi5DRy2t6B8DTrp)
+1. Explore our [Project Management Board](https://github.com/hackforla/access-the-data/projects/1) (where we manage all the work) and see what the team is working on
+2. Check out [Access the Data's Figma](https://www.figma.com/team_invite/redeem/kAfdau1Gi5DRy2t6B8DTrp)
+3. Reach out on the [#access-the-data](https://hackforla.slack.com/archives/C01L2ANCG6M) Slack and ask to join one of our meetings to see what we're up to
 
 ## 2. Join the Community
 1. If you like what you see, join the Hack for LA Slack workspace: [self invite](https://hackforla.org/slack)
@@ -38,13 +41,21 @@ For more information on the project development, refer to: [Access the Data](htt
 8. Once you have access to the Access the Data Google Drive, add yourself to the Team Roster
 
 ## 3. Come to the Meetings
-1. Come to our team meetings: Wednesdays 5pm PST 
-2. Depending on your role, go to the associated meetings:
+1. Come to our team meetings: Every 2nd and 4th Wednesday @ 5pm PST 
+2. Our meeting cadence depends on which week of the month we are in:
+    Week 1: Planning week - PMs & Team Leads
+            Workng sessions - volunteers
+
+    Week 2: Team Meetings (cadence below)
+    
+    Week 3: Working sessions - volunteers
+    
+    Week 4: Team Meetings
 
 | Meeting     | Time | Related Role(s) | Meeting Link |
 | ----------- | ----------- | ----------- |----------- |
 | Workshop Working Meeting   | Mondays 5PM PST  |PM, Data Science| [Zoom](https://us02web.zoom.us/j/82450421459?pwd=aWJVVE1ZK3JUd2tFQTNJUTdpUEFJdz09)|
-| PM and Hack4LA Organization Meeting   | Tuesdays 2PM PST | PMs, Leads | ask Lucy Chang|
+| PM and Hack4LA Organization Meeting   | Tuesdays 2PM PST | PMs, Leads | ask [Lucy Chang](https://hackforla.slack.com/archives/D0300VD5E83) & [aj price](https://hackforla.slack.com/archives/D02USE0EPSS)|
 | UX Research Working Meeting  | Tuesdays 5PM PST | PMs, Leads, UX/UI | [Zoom]( https://us02web.zoom.us/j/85209255870)|
 | Team Meeting   | Wednesdays 5PM PST      | PM, UX/UI, Data Science, Developer | [Zoom](https://us02web.zoom.us/j/81648388067) |
 | UX Design Working Meeting   | Thursdays 4PM PST      | PM, UX/UI, Developer | [Zoom](https://us02web.zoom.us/j/87180592440) |
