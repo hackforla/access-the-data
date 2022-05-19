@@ -1,16 +1,15 @@
-![Access the Data logo](https://www.hackforla.org/assets/images/projects/access-the-data.png)
+Access the Data
 
 **Access the Data** is an initiative aimed at identifying and addressing the areas where data literacy education within our communities is needed most. With government policies increasingly relying on data and data analysis, it becomes imperative to increase data literacy in order for citizens to be effective advocates for their communities. 
-
-In this spirit, Hack for LA’s Access the Data team, in partnership with the Los Angeles Department of Neighborhood Empowerment, Neighborhood Councils, and the Los Angeles Mayor’s office, will be developing modules to address those areas. The project will produce a website to make accessing modules and other relevant self teaching content easy.
 
 # Project context
 
 Access the Data is working on three products:
-1. A three-part educational module on using local open-source data
-2. A database of open data sources and resources
-3. A website to host the above educational resources
+1. A three-part educational module on using local open-source data (currently on hold)
+2. A database of open data sources and resources (currently in the planning process)
+3. A website to host the above educational resources (currently in production with design and development)
 
+We also have a research team developing personas.
 
 # Technology used
 
@@ -41,24 +40,7 @@ Access the Data is working on three products:
 8. Once you have access to the Access the Data Google Drive, add yourself to the Team Roster
 
 ## 3. Come to the Meetings
-1. Come to our team meetings: Every 2nd and 4th Wednesday @ 5pm PST 
-2. Our meeting cadence depends on which week of the month we are in:
-    Week 1: Planning week - PMs & Team Leads
-            Workng sessions - volunteers
-
-    Week 2: Team Meetings (cadence below)
-    
-    Week 3: Working sessions - volunteers
-    
-    Week 4: Team Meetings
-
-| Meeting     | Time | Related Role(s) | Meeting Link |
-| ----------- | ----------- | ----------- |----------- |
-| Workshop Working Meeting   | Mondays 5PM PST  |PM, Data Science| [Zoom](https://us02web.zoom.us/j/82450421459?pwd=aWJVVE1ZK3JUd2tFQTNJUTdpUEFJdz09)|
-| PM and Hack4LA Organization Meeting   | Tuesdays 2PM PST | PMs, Leads | ask [Lucy Chang](https://hackforla.slack.com/archives/D0300VD5E83) & [aj price](https://hackforla.slack.com/archives/D02USE0EPSS)|
-| UX Research Working Meeting  | Tuesdays 5PM PST | PMs, Leads, UX/UI | [Zoom]( https://us02web.zoom.us/j/85209255870)|
-| Team Meeting   | Wednesdays 5PM PST      | PM, UX/UI, Data Science, Developer | [Zoom](https://us02web.zoom.us/j/81648388067) |
-| UX Design Working Meeting   | Thursdays 4PM PST      | PM, UX/UI, Developer | [Zoom](https://us02web.zoom.us/j/87180592440) |
+Meetings can be viewed at [this link](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%234285F4&ctz=America%2FLos_Angeles&showPrint=0&title=Access%20the%20Data%20calendar&src=YWNjZXNzdGhlZGF0YUBoYWNrZm9ybGEub3Jn&src=Y19kZHM1YjJlaTRuOTYxcHM0ajUwbGc1NXY1OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y190ZDFqc2dvdm9kc25pcmd2dTk1aWk4ZWJob0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y18ycmxjbzJmcTRiNXJqNGZrM2k0Mmw0b3Iyc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y18wc2NmZHFqa2ZzNjVwbmk2dGViaTN0YTc4MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%23EF6C00&color=%237CB342&color=%23795548&color=%23D50000).
 
 # Contact info
 
