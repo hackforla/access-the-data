@@ -1,5 +1,7 @@
 Access the Data
 
+![ATD Logo Horizontal](https://user-images.githubusercontent.com/10827101/169327862-09c89c93-c002-4436-a6f6-9ded150c3393.jpg)
+
 **Access the Data** is an initiative aimed at identifying and addressing the areas where data literacy education within our communities is needed most. With government policies increasingly relying on data and data analysis, it becomes imperative to increase data literacy in order for citizens to be effective advocates for their communities. 
 
 # Project context
