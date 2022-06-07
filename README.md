@@ -1,15 +1,37 @@
 ![ATD Logo Horizontal](https://user-images.githubusercontent.com/10827101/169327862-09c89c93-c002-4436-a6f6-9ded150c3393.jpg)
 
-**Access the Data** is an initiative aimed at identifying and addressing the areas where data literacy education within our communities is needed most. With government policies increasingly relying on data and data analysis, it becomes imperative to increase data literacy in order for citizens to be effective advocates for their communities. 
+With government policies increasingly relying on data and data analysis, **Access the Data** has identified that it is imperative to increase citizen’s access and understanding of local government data in order to be effective advocates for their communities.
+
+Our **hypothesis** is having a centralized space for open government data and educational resources will help community activists advocate for their communities.
+
+We **envision** Access the Data as a tool that any municipality can adopt to make it easy for their citizens to find, navigate, and understand local government data.
+
+We are **testing** this hypothesis by creating an MVP of Access the Data that includes a catalog of government data sources and open data literacy.
+ 
 
 # Project context
 
-Access the Data is working on three products:
-1. A three-part educational module on using local open-source data (currently on hold)
-2. A database of open data sources and resources (currently in the planning process)
-3. A website to host the above educational resources (currently in production with design and development)
+Access the Data is one of a series of products being created for [Hack for LA](https://www.hackforla.org/#), a brigade of [Code for America](https://codeforamerica.org/). These products are known as the [Citizen Engagement collection](https://www.hackforla.org/citizen-engagement). The collection focuses on helping the city of Los Angeles with their [Sustainable Development Goals](https://sdg.lamayor.org/about/global-goals) as adopted by the [United Nations](https://sdgs.un.org/2030agenda). 
 
-We also have a research team developing personas.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/10827101/172487498-d6138d95-1a67-4747-869c-e77277533b76.JPG" />
+</p>
+
+
+Access the Data is working to support Target 16.8 of the Sustainable Development Goals:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/10827101/172489326-a057132a-1c6a-4aa6-86c3-73e0c04362b5.JPG" />
+</p>
+
+
+## MVP Deliverables  
+
+The MVP will consist of a website that hosts a catalog of sources of open government data. This project will focus on Los Angeles County as its backdrop to test the hypothesis that this is a tool that community activists and data experts need and want.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/10827101/172486811-09b226c2-6225-4318-a0fc-1b6b10a06685.JPG" />
+</p>
 
 # Technology used
 
@@ -17,12 +39,13 @@ We also have a research team developing personas.
 - Slack channel: [#access-the-data](https://hackforla.slack.com/archives/C01L2ANCG6M)
 - Figma: [Access the Data's Figma](https://www.figma.com/team_invite/redeem/kAfdau1Gi5DRy2t6B8DTrp)
 - Google Suite: (only onboarded participants will have viewing access)
+- CKAN (coded in Python) 
 
 # How to contribute
 ## 1. Get Familiar with What We Do
 1. Explore our [Project Management Board](https://github.com/hackforla/access-the-data/projects/1) (where we manage all the work) and see what the team is working on
-2. Check out [Access the Data's Figma](https://www.figma.com/team_invite/redeem/kAfdau1Gi5DRy2t6B8DTrp)
-3. Reach out on the [#access-the-data](https://hackforla.slack.com/archives/C01L2ANCG6M) Slack and ask to join one of our meetings to see what we're up to
+2. Read our [MVP Project Charter](https://docs.google.com/document/d/1hAxvBz3edPBLRFM23r7GSfX8GR11V6yJqyp7kieFczY/edit?resourcekey=0-MYHK7mTS8WoWNJJCfDcwQw) to see the project's purpose and vision
+4. Reach out on the [#access-the-data](https://hackforla.slack.com/archives/C01L2ANCG6M) Slack and ask to join one of our meetings to see what we're up to
 
 ## 2. Join the Community
 1. If you like what you see, join the Hack for LA Slack workspace: [self invite](https://hackforla.org/slack)
@@ -36,7 +59,7 @@ We also have a research team developing personas.
 5. During onboarding you will complete the following required actions
     - get access to project's Google Drive
     - get access to project's GitHub repo (yes, even non-devs will use GitHub for project-management/kanban)
-    - get edit access to Access the Data's Figma 
+    - get edit access to Access the Data's Figma
 8. Once you have access to the Access the Data Google Drive, add yourself to the Team Roster
 
 ## 3. Come to the Meetings
