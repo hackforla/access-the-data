@@ -11,7 +11,7 @@ We are **testing** this hypothesis by creating an MVP of Access the Data that in
 
 # Project context
 
-Access the Data is one of a series of products being created for [Hack for LA](https://www.hackforla.org/#), a brigade of [Code for America](https://codeforamerica.org/). These products are known as the [Citizen Engagement collection](https://www.hackforla.org/citizen-engagement). The collection focuses on helping the city of Los Angeles with their [Sustainable Development Goals](https://sdg.lamayor.org/about/global-goals) as adopted by the [United Nations](https://sdgs.un.org/2030agenda). 
+Access the Data is one of a series of products being created by [Hack for LA](https://www.hackforla.org/#), a brigade of [Code for America](https://codeforamerica.org/). These products are known as the [Citizen Engagement collection](https://www.hackforla.org/citizen-engagement). The collection focuses on helping the city of Los Angeles with their [Sustainable Development Goals](https://sdg.lamayor.org/about/global-goals) as adopted by the [United Nations](https://sdgs.un.org/2030agenda). 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/10827101/172487498-d6138d95-1a67-4747-869c-e77277533b76.JPG" />
@@ -27,7 +27,7 @@ Access the Data is working to support Target 16.8 of the Sustainable Development
 
 ## MVP Deliverables  
 
-The MVP will consist of a website that hosts a catalog of sources of open government data. This project will focus on Los Angeles County as its backdrop to test the hypothesis that this is a tool that community activists and data experts need and want.
+The MVP will consist of a website that hosts a catalog of open government data sources. This project will focus on Los Angeles County as its backdrop to test the hypothesis that this is a tool that community activists and data experts need and want.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/10827101/172486811-09b226c2-6225-4318-a0fc-1b6b10a06685.JPG" />
