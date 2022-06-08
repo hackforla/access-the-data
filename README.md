@@ -2,11 +2,11 @@
 
 With government policies increasingly relying on data and data analysis, **Access the Data** has identified that it is imperative to increase citizen’s access and understanding of local government data in order to be effective advocates for their communities.
 
-Our **hypothesis** is having a centralized space for open government data and educational resources will help community activists advocate for their communities.
+Our **hypothesis** is having a centralized space for open government data and educational resources will help community activists use data to advocate for their communities.
 
 We **envision** Access the Data as a tool that any municipality can adopt to make it easy for their citizens to find, navigate, and understand local government data.
 
-We are **testing** this hypothesis by creating an MVP of Access the Data that includes a catalog of government data sources and open data literacy.
+We are **testing** this hypothesis by creating an MVP of Access the Data that includes a catalog of government data sources and open data literacy resources.
  
 
 # Project context
