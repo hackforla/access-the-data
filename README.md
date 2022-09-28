@@ -44,8 +44,8 @@ The MVP will consist of a website that hosts a catalog of open government data s
 # How to contribute
 ### 1. Get Familiar with What We Do
 1. Explore our [Project Management Board](https://github.com/hackforla/access-the-data/projects/1) (where we manage all the work) and see what the team is working on
-2. Read our [MVP Project Charter](https://docs.google.com/document/d/1hAxvBz3edPBLRFM23r7GSfX8GR11V6yJqyp7kieFczY/edit?resourcekey=0-MYHK7mTS8WoWNJJCfDcwQw) to see the project's purpose and vision
-4. Reach out on the [#access-the-data](https://hackforla.slack.com/archives/C01L2ANCG6M) Slack and ask to join one of our meetings to see what we're up to
+2. Read our [MVP Project Charter](https://drive.google.com/file/d/1gB3_SEld6FGTUTJLZUkX9WnLlHXPI0EG/view?usp=sharing) to see the project's purpose and vision
+3. Reach out on the [#access-the-data](https://hackforla.slack.com/archives/C01L2ANCG6M) Slack and ask to join one of our meetings to see what we're up to
 
 ### 2. Join the Community
 1. If you like what you see, join the Hack for LA Slack workspace: [self invite](https://hackforla.org/slack)
