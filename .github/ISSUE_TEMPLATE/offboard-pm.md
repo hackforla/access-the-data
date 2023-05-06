@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ### Overview
-We need to offboard [PM NAME] onto the project.
+We need to offboard [PM NAME] from the project.
 
 ### Onboard Checklist
 - [ ] Remove from access-the-data-leads Slack channel (may need to ask them to leave if you do not have Slack admin privileges) 
@@ -21,8 +21,8 @@ We need to offboard [PM NAME] onto the project.
 - [ ] GitHub
      - [ ] Demote to member on [write team](https://github.com/orgs/hackforla/teams/access-the-data-write/members)
      - [ ] Demote to member on [read vault](https://github.com/orgs/hackforla/teams/access-the-data/members)
+     - [ ] Unassign from any current issues and move newly unassigned issues to the backlog
      - [ ] Remove from the [leadership team list](https://github.com/hackforla/access-the-data/projects/1#card-84009614)
-    - [ ] Unassign from any current issues and move newly unassigned issues to the backlog
 - [ ] Demote to viewer on [Figma](https://www.figma.com/files/team/966550530967927285/Access-The-Data/members?fuid=966550526030546346)
 - [ ] Send name and email to Admin on Slack and ask to have them removed from the Access the Data and Zoom 1Password vaults
 - [ ] Remove their personal email address from the AtD email forwarder
