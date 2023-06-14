@@ -1,5 +1,5 @@
 ---
-name: Recruit / Post for New Volunteer
+name: Post Open Role
 about: Use this template when you need to find more people to help with the project.
 title: Recruit new [ROLE]
 labels: 'feature: administrative, role: project management, size: 1 pt'
@@ -12,7 +12,7 @@ We need to recruit a new [ROLE] to help us [WORK NEEDING TO BE DONE].
 
 ## Action Items
 - [ ] Define what skills and time requirements are necessary for the work to be done
-- [ ] Create a detailed post in our [Open Roles wiki](https://github.com/hackforla/access-the-data/wiki/Open-Roles) that includes:
+- [ ] Create a detailed post in our [Open Roles wiki](https://github.com/hackforla/access-the-data/wiki/Open-Roles).  You can use a [template](https://github.com/hackforla/access-the-data/wiki/Project-Role-Descriptions) or you can create a new one that includes:
    - Description of role
    - Duties include
    - Skills needed OR Skilled needed or willing to be learned
