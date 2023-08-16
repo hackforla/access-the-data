@@ -28,6 +28,7 @@ We need to offboard [PM NAME] from the project.
 - [ ] Remove their personal email address from the AtD email forwarder
 - [ ] Remove Facebook role assignment
 - [ ] Update the [AtD HfLA page](https://www.hackforla.org/projects/access-the-data) team with [this](https://github.com/hackforla/website/issues/new?assignees=&labels=P-Feature%3A+Project+Info+and+Page%2C+role%3A+back+end%2FdevOps%2C+role%3A+front+end%2C+Size%3A+Small%2C+size%3A+0.5pt%2C+time+sensitive&template=project-profile-card-review-and-update.yml&title=Update+Project+Profile%3A+%5BProject+Name%5D) issue template
+- [ ] Email them a [feedback form](https://forms.gle/6TtHgC95kpv2WTfQ9) to fill out
 
 
 ### Resources
