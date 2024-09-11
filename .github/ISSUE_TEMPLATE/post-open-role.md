@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+<img src="https://user-images.githubusercontent.com/37763229/112223238-e1163500-8be6-11eb-9877-4818ba411759.png" />
+
 **Project Name**: Access the Data
 
 **Name of Role**: [Replace with NAME OF ROLE]
